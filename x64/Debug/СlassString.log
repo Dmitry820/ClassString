@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\dimit\source\repos\СlassString\СlassString\Main.cpp(361,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\dimit\source\repos\СlassString\СlassString\Main.cpp(389,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\dimit\source\repos\СlassString\СlassString\Main.cpp(485,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  СlassString.vcxproj -> C:\Users\dimit\source\repos\СlassString\x64\Debug\СlassString.exe
